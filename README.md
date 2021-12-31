@@ -1,3 +1,3 @@
 # GitHub Learning
 
-Learing how to navigate in GitHub.
+Learing how to navigate in GitHub!
